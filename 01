@@ -1,0 +1,4 @@
+d={1:'ram',2:'bcom',3:'2ndyear',4:'2001'}
+d.pop(1)
+d.pop(2)
+print(d)
